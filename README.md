@@ -2,7 +2,7 @@
 
 ## Hi, I'm Jan Nelson 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="enjuguna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="jannelson36" /> </p>
 
 <a href="https://www.linkedin.com/in/jan-nelson-85133517b/">
   <img align="left" alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
