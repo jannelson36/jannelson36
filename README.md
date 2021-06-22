@@ -1,6 +1,6 @@
 ![Header](https://github.com/jannelson36/jannelson36/blob/main/jannelson.jpg)
 
-## Hi, I'm Jan Nelson 👋
+## Hi, I'm Jan Nelson <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="jannelson36" /> </p>
 
@@ -20,7 +20,7 @@
 </br>
 </br>
 
-[![GitHub jannelson36](https://img.shields.io/github/followers/enjuguna?label=follow&style=social)](https://github.com/jannelson36)
+[![GitHub jannelson36](https://img.shields.io/github/followers/jannelson36?label=follow&style=social)](https://github.com/jannelson36)
 
 </br>
 
@@ -37,7 +37,7 @@
 </br>
 
   
-[![Eric's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=enjuguna&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
+[![Eric's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&theme=dark&layout=compact)](https://github.com/jannelson36/github-readme-stats)
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=enjuguna&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
 </a>
