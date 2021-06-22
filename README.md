@@ -1,4 +1,4 @@
-![Header](https://github.com/jannelson36/jannelson36/blob/main/Eric%20Header%20(3).png)
+![Header](https://github.com/jannelson36/jannelson36/blob/main/jannelson.png)
 
 ## Hi, I'm Jan Nelson 👋
 
