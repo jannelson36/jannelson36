@@ -2,7 +2,7 @@
 
 ## Hi, I'm Jan Nelson <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="jannelson36" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jannelson36&label=Views&color=blue&style=plastic" alt="jannelson36" /> </p>
 
 <a href="https://www.linkedin.com/in/jan-nelson-85133517b/">
   <img align="left" alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -37,7 +37,7 @@
 </br>
 
   
-[![Eric's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&theme=dark&layout=compact)](https://github.com/jannelson36/github-readme-stats)
+[![Jan's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&theme=dark&layout=compact)](https://github.com/jannelson36/github-readme-stats)
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
 </a>
