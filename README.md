@@ -37,7 +37,7 @@
 </br>
 
   
-[![Jan's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&theme=dark&layout=compact)](https://github.com/jannelson36/github-readme-stats)
+[![Jan's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&theme=dark&layout=compact)](https://github.com/jannelson36/waka-readme-stats)
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
 </a>
