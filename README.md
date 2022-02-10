@@ -19,7 +19,7 @@
 </br>
 </br>
 </br>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoel4708&count_private=true&theme=tokyonight&line_height=52">
 [![GitHub jannelson36](https://img.shields.io/github/followers/jannelson36?label=follow&style=social)](https://github.com/jannelson36)
 
 </br>
