@@ -14,7 +14,7 @@
 </br>
 </br>
 - 🔭 Software Developer </br>
-- 🌱 Frequently learning to improve my craft
+- 🌱 Improve my craft through the learning process
 
 </br>
 </br>
