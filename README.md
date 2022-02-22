@@ -14,7 +14,7 @@
 </br>
 </br>
 - 🔭 Software Developer </br>
-- 🌱 Improve my craft through the learning process
+- 🌱 Improving my craft through the rigorous learning process
 
 </br>
 </br>
@@ -37,7 +37,7 @@
 </br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=52">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=52">
   <!--START_SECTION:waka-->
 
 
