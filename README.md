@@ -44,7 +44,7 @@
 <!--END_SECTION:waka-->
   
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=enjuguna&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
 </a>
 
 
