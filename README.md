@@ -36,8 +36,8 @@
 </br>
 </br>
 
-<code><img align="right" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/></code>
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=52"></code>
+<code><img align="right" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=52"></code>
 
  
 <!--START_SECTION:waka-->
