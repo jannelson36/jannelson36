@@ -40,10 +40,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=52">
  
 <!--START_SECTION:waka-->
-
+[![Eric's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=enjuguna&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
 <!--END_SECTION:waka-->
+  
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=enjuguna&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
 </a>
 
 
