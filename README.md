@@ -38,13 +38,12 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=52">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
  
 <!--START_SECTION:waka-->
-<img height="200" src="https://wakatime.com/share/@jannelson36/3b3fefc8-803a-43e7-b3c1-71441f80d668.svg"></img>
+<img src="https://wakatime.com/share/@jannelson36/3b3fefc8-803a-43e7-b3c1-71441f80d668.svg"></img>
 <!--END_SECTION:waka-->
-  
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
 </a>
 
 
