@@ -40,7 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=52">
  
 <!--START_SECTION:waka-->
-[![Jan's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=@jannelson36&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@jannelson36/3b3fefc8-803a-43e7-b3c1-71441f80d668.svg"></embed></figure>
 <!--END_SECTION:waka-->
   
 
