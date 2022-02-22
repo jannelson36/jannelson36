@@ -41,7 +41,7 @@
 
  
 <!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@jannelson36/3b3fefc8-803a-43e7-b3c1-71441f80d668.svg"></img>
+<img height="500" src="https://wakatime.com/share/@jannelson36/3b3fefc8-803a-43e7-b3c1-71441f80d668.svg"></img>
 <!--END_SECTION:waka-->
 
 </a>
