@@ -40,11 +40,11 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&count_private=true&theme=tokyonight&line_height=40"></p>
 
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's's github stats"/>
-  
+  </p>
 
-[![Jan's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&theme=dark&layout=compact)](https://github.com/jannelson36/github-readme-stats)
+[![Jan's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&show_icons=true&theme=dark&layout=center)](https://github.com/jannelson36/github-readme-stats)
 
 </a>
 
