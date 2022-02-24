@@ -43,8 +43,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's's github stats"/>
   </p>
+ 
+ <p align="center">
+<a href="https://github.com/jannelson36/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&show_icons=true&theme=dark&layout=compact)" />
+</a>
+</p>
 
-[![Jan's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&show_icons=true&theme=dark&layout=center)](https://github.com/jannelson36/github-readme-stats)
 
 </a>
 
