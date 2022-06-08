@@ -1,6 +1,6 @@
 ![Header](https://github.com/jannelson36/jannelson36/blob/main/jannelson.png)
 
-## <h2 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="5px"> Hello, I'm Jan Nelson</h2>
+## <h2 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="30px"> Hello, I'm Jan Nelson</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jannelson36&label=Views&color=blue&style=plastic" alt="jannelson36" /></p>
 
