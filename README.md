@@ -2,11 +2,11 @@
 
 ## <h2><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="30px"> Hello, I'm Jan Nelson</h2>
 
-<p>
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=jannelson36&label=Views&color=blue&style=plastic" alt="jannelson36" />
 </p>
 
+<p>
 <a href="https://www.linkedin.com/in/jan-nelson/">
  <img alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
