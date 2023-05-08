@@ -42,19 +42,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
-  </p>
- 
- <p align="center">
-<a href="https://github.com/jannelson36/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jannelson36&show_icons=true&theme=dark&layout=compact" />
-</a>
 </p>
-
-<p>
-  <figure><embed src="https://wakatime.com/share/@jannelson36/2500db17-4dce-43f0-8f78-e604e27d630f.svg"></embed></figure>
-  <img width="300" src="https://wakatime.com/badge/user/4511192b-2987-40ac-9c86-72bdaed538d2.svg"></a>
-</p>
-
 
 </a>
 
