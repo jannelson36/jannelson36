@@ -94,6 +94,9 @@
 </a>
 </p>
 
+[![GitHub jannelson36](https://img.shields.io/github/followers/jannelson36?label=follow&style=social)](https://github.com/jannelson36)
+
+
 <p>
 <a href="https://www.linkedin.com/in/jan-nelson/">
  <img align="right" alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
