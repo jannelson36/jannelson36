@@ -27,7 +27,7 @@
 
 <p align="center"> 
   <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708/blob/master/my-octocat-1625144541112.png?raw=true"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoel4708&hide_progress=true&langs_count=30&count_private=true&theme=tokyonight&line_height=52">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&hide_progress=true&langs_count=30&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
 
