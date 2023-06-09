@@ -6,25 +6,10 @@
  <img src="https://komarev.com/ghpvc/?username=jannelson36&label=Views&color=blue&style=plastic" alt="jannelson36" />
 </p>
 
-<p>
-<a href="https://www.linkedin.com/in/jan-nelson/">
- <img alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/jannelson36">
- <img alt="Jan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</p>
-
 </br>
 
 [![GitHub jannelson36](https://img.shields.io/github/followers/jannelson36?label=follow&style=social)](https://github.com/jannelson36)
 
-<a href="https://www.linkedin.com/in/jan-nelson/">
-  <img align="right" alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/jannelson36/">
-  <img align="right" alt="Jan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
 - 🔭 Software Developer </br>
 - 🌱 Improving my craft through a rigorous learning process
@@ -107,16 +92,22 @@
   <img width="300" src="https://wakatime.com/badge/user/4511192b-2987-40ac-9c86-72bdaed538d2.svg"></a>
 </p>
 
-</br></br>
+</br>
+</br>
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
 </a>
-
-
 </p>
 
-
+<p>
+<a href="https://www.linkedin.com/in/jan-nelson/">
+ <img align="right" alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/jannelson36">
+ <img align="right" alt="Jan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</p>
 </a>
 
 
