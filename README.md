@@ -31,6 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&hide_progress=true&langs_count=30&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
+</br>
 
  <div style="display:flex">
   <div style="margin-right: 10px;">
