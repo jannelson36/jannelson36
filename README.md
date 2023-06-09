@@ -86,7 +86,7 @@
 <p>
  
   <figure><embed src="https://wakatime.com/share/@jannelson36/2500db17-4dce-43f0-8f78-e604e27d630f.svg"></embed></figure>
-  <img width="300" src="[https://wakatime.com/badge/user/4511192b-2987-40ac-9c86-72bdaed538d2.svg](https://wakatime.com/badge/user/4511192b-2987-40ac-9c86-72bdaed538d2.svg)"></a>
+  <img width="300" src="https://wakatime.com/badge/user/4511192b-2987-40ac-9c86-72bdaed538d2.svg"></a>
 
 
 </br>
