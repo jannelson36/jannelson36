@@ -87,7 +87,9 @@
 </p>
 
 </br>
+
 [![GitHub jannelson36](https://img.shields.io/github/followers/jannelson36?label=follow&style=social)](https://github.com/jannelson36)
+
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
