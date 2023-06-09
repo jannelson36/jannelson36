@@ -7,13 +7,7 @@
 </p>
 
 </br>
-
-[![GitHub jannelson36](https://img.shields.io/github/followers/jannelson36?label=follow&style=social)](https://github.com/jannelson36)
-
-
-- 🔭 Software Developer </br>
 - 🌱 Improving my craft through a rigorous learning process
-
 </br>
 </br>
 
