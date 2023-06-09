@@ -102,10 +102,10 @@
 
 <p>
 <a href="https://www.linkedin.com/in/jan-nelson/">
- <img style="color:orange;" align="right" alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <img align="right" alt="Jan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jannelson36">
- <img style="color:orange;" align="right" alt="Jan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ <img align="right" alt="Jan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </p>
 </a>
