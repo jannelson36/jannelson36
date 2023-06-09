@@ -23,6 +23,7 @@
 - 🌱 Improving my craft through a rigorous learning process
 
 </br>
+</br>
 
 
 <p align="center"> 
@@ -30,8 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&hide_progress=true&langs_count=30&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
-
-<h4>Languages and Tools:</h4>
 
  <div style="display:flex">
   <div style="margin-right: 10px;">
