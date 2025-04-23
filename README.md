@@ -1,13 +1,13 @@
-![Header](https://github.com/jannelson36/jannelson36/blob/main/jannelson.png)
+![Header](https://github.com/jannelson36/jannelson36/blob/main/Image00001.JPG)
 
-## <h2><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="30px"> Hello, I'm Jan Nelson</h2>
+## <h2><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="30px"> Hello, I'm Nelson Ongiri</h2>
 
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=jannelson36&label=Views&color=blue&style=plastic" alt="jannelson36" />
 </p>
 
 </br>
-- 🌱 Improving my craft through a rigorous learning process
+- 🌱 Cultivating mastery through deliberate practice and relentless curiosity.
 </br>
 </br>
 
@@ -24,12 +24,10 @@
  <div style="margin-right: 10px;">
     <h3>Frontend</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
     <img alt="Html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
-    <img alt="typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
   </div>
  
   <div style="margin-right: 10px;">
