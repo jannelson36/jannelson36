@@ -92,8 +92,6 @@
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jannelson36&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&bg_color=00000000)
 </a>
 </p>
 
