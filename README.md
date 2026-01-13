@@ -14,7 +14,6 @@
 
 <p align="center"> 
   <img width="300" height="300" src="https://github.com/jannelson36/jannelson36/blob/main/my-octocater.png?raw=true"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannelson36&hide_progress=true&langs_count=30&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
 </br>
@@ -93,8 +92,7 @@
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&theme=dark&line_height=27" alt="Jan's github stats"/>
-
+![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannelson36&show_icons=true&bg_color=00000000)
 </a>
 </p>
 
